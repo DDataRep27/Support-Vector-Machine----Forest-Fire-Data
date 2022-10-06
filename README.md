@@ -1,3 +1,3 @@
 # Support-Vector-Machine----Forest-Fire-Data
 
-## Prepare a classification model for forest fire data
+## Prepare and classify the Size_Categorie using SVM for forest fire data
